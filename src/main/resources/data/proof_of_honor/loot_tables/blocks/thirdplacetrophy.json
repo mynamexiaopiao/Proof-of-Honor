@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:block",
+  "random_sequence": "proof_of_honor:blocks/thirdplacetrophy",
+  "pools": [
+    {
+      "rolls": 1.0,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "proof_of_honor:thirdplacetrophy"
+        }
+      ]
+    }
+  ]
+}

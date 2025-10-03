@@ -1,0 +1,9 @@
+{
+  "parent": "proof_of_honor:custom/champion_platform",
+  "textures": {
+    "all": "proof_of_honor:block/champion_platform",
+    "particle": "minecraft:block/gold_block",
+    "1": "proof_of_honor:block/champion_platform"
+  },
+  "render_type": "solid"
+}

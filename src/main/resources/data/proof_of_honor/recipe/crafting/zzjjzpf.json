@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "aba",
+    "aaa"
+  ],
+  "key": {
+    "a": "minecraft:stick",
+
+    "b": "minecraft:red_wool"
+  },
+  "result": {
+    "id": "proof_of_honor:bracket_award_certificate",
+    "count": 1
+  }
+}

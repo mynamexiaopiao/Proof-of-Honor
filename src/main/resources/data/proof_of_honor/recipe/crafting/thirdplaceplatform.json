@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa"
+  ],
+  "key": {
+    "a":  "minecraft:copper_ingot"
+  },
+  "result": {
+    "id": "proof_of_honor:thirdplaceplatform",
+    "count": 1
+  }
+}

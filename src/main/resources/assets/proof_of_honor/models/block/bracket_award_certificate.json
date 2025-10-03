@@ -1,0 +1,9 @@
+{
+  "parent": "proof_of_honor:custom/bracket_award_certificate",
+  "textures": {
+    "all": "proof_of_honor:block/bracket_award_certificate",
+    "particle": "minecraft:block/dark_oak_log",
+    "0": "proof_of_honor:block/bracket_award_certificate"
+  },
+  "render_type": "solid"
+}

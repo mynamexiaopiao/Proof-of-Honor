@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "bcb",
+    " b "
+  ],
+  "key": {
+    "a": "minecraft:stick",
+
+    "b":  "minecraft:gold_ingot",
+
+    "c":  "minecraft:red_wool"
+
+  },
+  "result": {
+    "id": "proof_of_honor:silkbanner",
+    "count": 1
+  }
+}

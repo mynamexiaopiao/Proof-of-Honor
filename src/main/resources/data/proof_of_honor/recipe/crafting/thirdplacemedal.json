@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a",
+    "b"
+  ],
+  "key": {
+    "a":  "minecraft:copper_ingot",
+
+    "b":"minecraft:red_wool"
+
+  },
+  "result": {
+    "id": "proof_of_honor:thirdplacemedal",
+    "count": 1
+  }
+}

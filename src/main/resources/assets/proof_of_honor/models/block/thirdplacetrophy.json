@@ -1,0 +1,9 @@
+{
+  "parent": "proof_of_honor:custom/third_place_trophy",
+  "textures": {
+    "all": "proof_of_honor:block/third_place_trophy",
+    "particle": "minecraft:block/copper_block",
+    "0": "proof_of_honor:block/third_place_trophy"
+  },
+  "render_type": "solid"
+}

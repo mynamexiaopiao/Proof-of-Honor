@@ -1,0 +1,17 @@
+{
+  "block.proof_of_honor.proofofhonor": "冠军站台",
+  "itemGroup.proof_of_honor": "荣誉的证明",
+  "block.proof_of_honor.thirdplaceplatform": "季军站台",
+  "block.proof_of_honor.runnerupplatform": "亚军站台",
+  "block.proof_of_honor.championplatform": "冠军奖杯",
+  "block.proof_of_honor.runnerup_trophy": "亚军奖杯",
+  "block.proof_of_honor.thirdplacetrophy": "季军奖杯",
+  "block.proof_of_honor.champion_medal": "冠军奖牌",
+  "block.proof_of_honor.runnerupmedal": "亚军奖牌",
+  "block.proof_of_honor.thirdplacemedal": "季军奖牌",
+  "block.proof_of_honor.largescalehangingblessings": "大型挂福",
+  "block.proof_of_honor.mediumsizedhangingblessing": "中型挂福",
+  "block.proof_of_honor.smallscalehangingblessing": "小型挂福",
+  "block.proof_of_honor.silkbanner": "锦旗",
+  "block.proof_of_honor.bracket_award_certificate": "支架奖证"
+}

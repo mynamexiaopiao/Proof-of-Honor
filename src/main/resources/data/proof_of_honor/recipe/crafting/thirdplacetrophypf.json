@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a a",
+    " a ",
+    "aaa"
+  ],
+  "key": {
+    "a":  "minecraft:copper_ingot"
+
+  },
+  "result": {
+    "id": "proof_of_honor:thirdplacetrophy",
+    "count": 1
+  }
+}

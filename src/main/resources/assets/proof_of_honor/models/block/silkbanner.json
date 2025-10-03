@@ -1,0 +1,9 @@
+{
+  "parent": "proof_of_honor:custom/silk_banner",
+  "textures": {
+    "all": "proof_of_honor:block/silk_banner",
+    "particle": "minecraft:block/red_wool",
+    "0": "proof_of_honor:block/silk_banner"
+  },
+  "render_type": "solid"
+}

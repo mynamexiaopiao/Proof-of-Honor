@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "proof_of_honor:block/proofofhonor"
+    },
+    "facing=east": {
+      "model": "proof_of_honor:block/proofofhonor",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "proof_of_honor:block/proofofhonor",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "proof_of_honor:block/proofofhonor",
+      "y": 270
+    }
+  }
+}

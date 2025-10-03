@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "proof_of_honor:block/thirdplaceplatform"
+    },
+    "facing=east": {
+      "model": "proof_of_honor:block/thirdplaceplatform",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "proof_of_honor:block/thirdplaceplatform",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "proof_of_honor:block/thirdplaceplatform",
+      "y": 270
+    }
+  }
+}

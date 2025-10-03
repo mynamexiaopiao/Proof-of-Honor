@@ -1,0 +1,9 @@
+{
+  "parent": "proof_of_honor:custom/runner_up_platform",
+  "textures": {
+    "all": "proof_of_honor:block/runner_up_platform",
+    "particle": "minecraft:block/iron_block",
+    "2": "proof_of_honor:block/runner_up_platform"
+  },
+  "render_type": "solid"
+}

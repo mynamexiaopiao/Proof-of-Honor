@@ -1,0 +1,9 @@
+{
+  "parent": "proof_of_honor:custom/large_scale_hanging_blessings",
+  "textures": {
+    "all": "proof_of_honor:block/large_scale_hanging_blessings",
+    "particle": "minecraft:block/red_wool",
+    "5": "proof_of_honor:block/large_scale_hanging_blessings"
+  },
+  "render_type": "solid"
+}

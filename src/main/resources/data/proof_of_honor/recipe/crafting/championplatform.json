@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "aaa"
+  ],
+  "key": {
+    "a": "minecraft:gold_ingot"
+
+  },
+  "result": {
+    "id": "proof_of_honor:proofofhonor",
+    "count": 1
+  }
+}

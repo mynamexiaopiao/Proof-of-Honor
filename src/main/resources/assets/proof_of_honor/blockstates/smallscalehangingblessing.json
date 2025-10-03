@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "proof_of_honor:block/smallscalehangingblessing"
+    },
+    "facing=east": {
+      "model": "proof_of_honor:block/smallscalehangingblessing",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "proof_of_honor:block/smallscalehangingblessing",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "proof_of_honor:block/smallscalehangingblessing",
+      "y": 270
+    }
+  }
+}

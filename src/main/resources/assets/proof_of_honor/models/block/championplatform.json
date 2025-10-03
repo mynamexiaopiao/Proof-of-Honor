@@ -1,0 +1,9 @@
+{
+  "parent": "proof_of_honor:custom/championship_trophy",
+  "textures": {
+    "all": "proof_of_honor:block/championship_trophy",
+    "particle": "minecraft:block/gold_block",
+    "0": "proof_of_honor:block/championship_trophy"
+  },
+  "render_type": "solid"
+}

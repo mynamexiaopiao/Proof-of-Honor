@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "bcb",
+    "aaa"
+  ],
+  "key": {
+    "a":  "minecraft:stick",
+    "b": "minecraft:red_wool",
+
+    "c": "proof_of_honor:smallscalehangingblessing"
+
+  },
+  "result": {
+    "id": "proof_of_honor:mediumsizedhangingblessing",
+    "count": 1
+  }
+}
